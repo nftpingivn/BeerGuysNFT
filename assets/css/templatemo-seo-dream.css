@@ -275,7 +275,7 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #33ccc5;
+  color: #050407;
 }
 
 .background-header .nav li a.active {
@@ -466,7 +466,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #33ccc5!important;
+  color: #050407!important;
   padding-left: 25px;
 }
 
@@ -606,7 +606,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #33ccc5;
+  color: #050407;
 }
 
 @media (max-width: 1200px) {
@@ -639,14 +639,14 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #33ccc5!important;
+    color: #050407!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
     width: 100%;
   }
   .header-area {
-    background-color: #33ccc5;
+    background-color: #050407;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -700,7 +700,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #33ccc5!important;
+    color: #050407!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -814,7 +814,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #33ccc5;
+    background: #ffffff;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -837,7 +837,7 @@ preloader
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background: #33ccc5;
+    background: #ffffff;
     border-radius: 50%;
 }
 
@@ -1520,8 +1520,8 @@ Portfolio
 }
 
 .our-portfolio .owl-nav span:hover {
-  color: #33ccc5;
-  border-color: #33ccc5;
+  color: #050407;
+  border-color: #050407;
 }
 
 
